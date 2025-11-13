@@ -1,39 +1,33 @@
 # UI-UX-Experiment4
 
 ## Aim:
-Design a wireframe diagram for a generic application or website using Balsamiq, including at least 5 essential screens/pages: Welcome/Splash Screen,
-
- Login/Signup Screen, Home/Dashboard Screen, Content/Product Listing Screen, and Checkout/Contact/Final Action Screen.
-
-
+Evaluate usability of the Netflix-style 5-screen wireframe (Splash, Login/Signup, Home, Content Detail, Subscription) to identify usability issues, prioritize fixes, and validate improvements with measurable metrics.
 
 ## Algorithm:
-1. Create Welcome/Splash Screen
-2. Add logo at the top center
-3. Add welcome message under the logo
-4. Add a "Get Started" button at the bottom
-5. Create Login/Signup Screen
-6. Add a title ("Login" or "Sign Up")
-7. Add text fields for email and password
-8. Add a login or sign up button
-9. Add links for "Forgot Password?" and "Switch to Sign Up/Login"
-10. Create Home/Dashboard Screen
-11. Add a top bar with the app name or logo
-12. Add a welcome message
-13. Add buttons or icons for main features (like Products, Profile, Settings)
-14. Create Product/Content Listing Screen
-15. Add a search bar at the to
-16. Add filter options (like dropdowns or checkboxes)
-17. Show a list or grid of items (each with image, title, and price)
-18. Add "Add to Cart" buttons under each item
-19. Create Checkout/Final Action Screen
-20. Add a form with fields like name, address, and payment info
-21. Show a summary of selected products
-22. Add a "Place Order" or "Submit" button at the bottom
+
+1.Define scope, target users, and 3 core tasks (Sign in, Find & Play a title, Subscribe).
+
+2.Create Balsamiq-style low-fi wireframes for the 5 screens and annotate interaction points.
+
+3.Perform a heuristic review (Nielsen’s 10 heuristics), logging issues and severity (1–4).
+
+4.Build an interactive mid-fi prototype of the fixed high-severity screens.
+
+5.Recruit 6–10 representative users.
+
+6.Run moderated usability tests: for each user, run the 3 tasks; collect task success, task time, errors, SUS, and qualitative notes.
+
+7.Aggregate metrics and map issues to heuristics; prioritize fixes (Must / Should / Could).
+
+8.Implement design changes in prototype.
+
+9.Re-test (same tasks, 5–8 users or A/B) a9.nd collect post-change metrics.
+
+10.Compile report: findings, before/after metrics, screenshots, prioritized recommendations.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/20711bcc-bcf2-4d2c-b04a-ab1110a0c3d2)
+<img width="1536" height="1024" alt="ChatGPT Image Nov 4, 2025, 12_02_43 PM" src="https://github.com/user-attachments/assets/f6453653-6eaf-4873-a7cb-5a13e4c6c82c" />
 
 
 ## Result:
-To Design a wireframe diagram for a generic application or website using Balsamiq is completed
+Netflix-style 5-screen wireframe (Splash, Login/Signup, Home, Content Detail, Subscription) is sucessfully created.
