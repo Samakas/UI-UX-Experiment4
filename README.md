@@ -26,7 +26,7 @@ Evaluate usability of the Netflix-style 5-screen wireframe (Splash, Login/Signup
 10.Compile report: findings, before/after metrics, screenshots, prioritized recommendations.
 
 ## Output:
-<img width="1536" height="1024" alt="ChatGPT Image Nov 4, 2025, 12_02_43 PM" src="https://github.com/user-attachments/assets/f6453653-6eaf-4873-a7cb-5a13e4c6c82c" />
+<img width="1303" height="575" alt="image" src="https://github.com/user-attachments/assets/cbc26e4b-d8d9-4050-b8d4-40a6a603ae1b" />
 
 
 ## Result:
